@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServelessA_Z": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7232",
+      "launchBrowser": false
+    }
+  }
+}
